@@ -1,5 +1,5 @@
 {
-  "name": "secure-gemini-journal",
+  "name": "backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,13 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
-    "@google/genai": "^2.19.0",
+    "@google-cloud/secret-manager": "^7.0.0",
+    "@google/genai": "^2.21.0",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "firebase": "^12.18.0",
     "firebase-admin": "^14.3.0"
   }
 }
