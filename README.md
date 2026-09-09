@@ -5,6 +5,11 @@ An AI-powered personal journaling platform built for the Google Cloud Run AI Cha
 > **Deployment Tag / Label:** `dev-tutorial=cloud-run-ai-challenge`
 
 ---
+## ✨ Unique App Features
+
+* **Roast or Boost Mode:** Dynamic AI personas that adapt to your emotional state—choose to get gently motivated (Boost) or receive a humorous, tough-love reality check (Roast).
+* **Chat With Your Past:** Seamlessly retrieve, reflect on, and converse with your previous journal entries using contextual AI memory.
+* **AI Mood Tracker & Smart Auto-Tagging:** Automatically analyzes your daily sentiment and intelligently tags journal entries for effortless filtering.
 
 ## Key Architecture & Features
 
